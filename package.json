@@ -1,0 +1,19 @@
+{
+  "name": "s3-contacts-upload-demo",
+  "version": "1.0.0",
+  "description": "Nodejs app for uploading file to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-stephen-mcgonigle/s3-contacts-upload-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-stephen-mcgonigle/s3-contacts-upload-demo/issues"
+  },
+  "homepage": "https://github.com/neil-stephen-mcgonigle/s3-contacts-upload-demo#readme"
+}
